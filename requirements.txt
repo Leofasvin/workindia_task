@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-RESTful==0.3.10
+Flask-JWT-Extended
+psycopg2-binary==2.9.5
